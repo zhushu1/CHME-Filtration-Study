@@ -5,4 +5,11 @@ In this study, we delve into assessing performance of depth filters in treating 
 As students at Northeastern University enrolled in the CHME 5137 course - Computational Modeling in Chemical Engineering - we were tasked with identifying a research project and applying our learned coding knowledge to solving a research-related project.  To do this, we implemented Python and MATLAB code to perform partial differential equation (PDE) solving and sensitivity analysis.  The particular method of PDE solving was the Crank-Nicolson method, a finite difference method.  With an over-simplification of the given depth filtration system, we were able to perform modeling and analysis accordingly.
 
 ## How to Use this Repository
+In this repo, you will find the following documents:
+* Depth Filter Sensitivity
+  * A Jupyter notebook assessing the importance of four main filtration parameters in the effectiveness of a depth filter
+* Crank-Nicolson Implementation via Python
+  * A Jupyter notebook applying the Crank-Nicolson finite difference method to our specific filter system
+* Crank-Nicolson Implementation via MATLAB
+  * A MATLAB file applying the Crank-Nicolson finite difference method to our filter system using the pdepe package
 
