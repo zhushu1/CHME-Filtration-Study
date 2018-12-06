@@ -14,6 +14,5 @@ In this repo, you will find the following documents:
   * After simplifying the continuity equation and complexity of the system equations, this file incorporates an ODE solver to model the concentration of particles through the depth filter bed. 
 * Crank-Nicolson-1
   * Attempt to implement Crank-Nicolson finite difference method to our specific filter system
-* Crank-Nicolson Implementation via MATLAB
-  * A MATLAB file applying the Crank-Nicolson finite difference method to our filter system using the pdepe package
-
+* MATLAB
+  * Folder containing all pertinent MATLAB files
