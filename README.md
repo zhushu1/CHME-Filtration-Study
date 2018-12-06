@@ -15,8 +15,7 @@ In this repo, you will find the following documents:
 * Crank-Nicolson-1
   * Attempt to implement Crank-Nicolson finite difference method to our specific filter system
 * MATLAB
-  * Folder containing all pertinent MATLAB files
-   * MATLAB-Workspace: PDE solutions and results
-   * MATLAB-pdebc: Boundary condition definitions
-   * MATLAB-pdefun: PDE definitions
-   * MATLAB-pdeic: Initial condition definitions
+  * MATLAB-Workspace: PDE solutions and results
+  * MATLAB-pdebc: Boundary condition definitions
+  * MATLAB-pdefun: PDE definitions
+  * MATLAB-pdeic: Initial condition definitions
