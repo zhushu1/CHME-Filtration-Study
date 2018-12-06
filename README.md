@@ -6,10 +6,14 @@ As students at Northeastern University enrolled in the CHME 5137 course - Comput
 
 ## How to Use this Repository
 In this repo, you will find the following documents:
+* CHME 5137 Final Project
+  * A Latex file of the final report for this filtration study
 * Depth Filter Sensitivity
-  * A Jupyter notebook assessing the importance of four main filtration parameters in the effectiveness of a depth filter
-* Crank-Nicolson Implementation via Python
-  * A Jupyter notebook applying the Crank-Nicolson finite difference method to our specific filter system
+  * Assesses importance of four main filtration parameters in the effectiveness of a depth filter.
+* ODE
+  * After simplifying the continuity equation and complexity of the system equations, this file incorporates an ODE solver to model the concentration of particles through the depth filter bed. 
+* Crank-Nicolson-1
+  * Attempt to implement Crank-Nicolson finite difference method to our specific filter system
 * Crank-Nicolson Implementation via MATLAB
   * A MATLAB file applying the Crank-Nicolson finite difference method to our filter system using the pdepe package
 
