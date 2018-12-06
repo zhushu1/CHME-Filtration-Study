@@ -6,6 +6,8 @@ As students at Northeastern University enrolled in the CHME 5137 course - Comput
 
 ## How to Use this Repository
 In this repo, you will find the following documents:
+* CHME 5137 Final Project
+  * A Latex report file of the final report for this filtration study
 * Depth Filter Sensitivity
   * Assesses importance of four main filtration parameters in the effectiveness of a depth filter.
 * ODE
