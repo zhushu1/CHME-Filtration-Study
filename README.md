@@ -12,8 +12,8 @@ In this repo, you will find the following documents:
   * Assesses importance of four main filtration parameters in the effectiveness of a depth filter.
 * ODE
   * After simplifying the continuity equation and complexity of the system equations, this file incorporates an ODE solver to model the concentration of particles through the depth filter bed. 
-* Crank-Nicolson-1
-  * Attempt to implement Crank-Nicolson finite difference method to our specific filter system
+* Finite Difference Method
+  * Attempt to implement finite difference method to our specific filter system
 * MATLAB
   * MATLAB-Workspace: PDE solutions and results
   * MATLAB-pdebc: Boundary condition definitions
